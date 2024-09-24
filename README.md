@@ -2,7 +2,7 @@
 
 1.ZOMATO-MySQL-Analysis--https://github.com/saikumarenjamuri/ZOMATO-MySQL-Analysis
 
-![image](https://github.com/user-attachments/assets/141b77d8-c8a7-4c95-aeb4-1e87fbc66a59)
+![image](https://github.com/user-attachments/assets/ee68c2e9-31b3-487b-9398-70faafed7d51)
 
 
 2.CAR_DEALER-MySQL-Analysis--https://github.com/saikumarenjamuri/CAR_DEALER-MySQL-Analysis
